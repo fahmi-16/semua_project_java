@@ -1,0 +1,5 @@
+
+Nama   : Fahmi
+Nilai Rata-rata : 100
+Grade  : A
+Hasil  : Lulus
